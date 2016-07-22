@@ -18,11 +18,20 @@ Assuming you have fortune, you can add this to your .bashrc or (in Ubuntu) use i
 	FORTUNE=`/usr/games/fortune`
 	$(shuf -n 1 -e /usr/games/ponysay /usr/games/ponythink) $FORTUNE
 
+
+
 I wiped out the /usr/share/ponysay/ponies and replaced them with the files here. 
 
+
+
 Here's what we have so far:
+
+
 ![bender/dodo/homer.pony](https://raw.githubusercontent.com/20goto10/wackyponies/master/screens/set2.png)
+
+
 ![parrot/zippy/zoidberg.pony](https://raw.githubusercontent.com/20goto10/wackyponies/master/screens/set1.png)
+
 
 Enjoy this pointlessness!
 
