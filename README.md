@@ -32,6 +32,8 @@ Here's what we have so far:
 
 ![parrot/zippy/zoidberg.pony](https://raw.githubusercontent.com/20goto10/wackyponies/master/screens/set1.png)
 
+![burns/trixie/woody.pony](https://raw.githubusercontent.com/20goto10/wackyponies/master/screens/set3.png)
+
 
 Enjoy this pointlessness!
 
